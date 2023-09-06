@@ -1,23 +1,23 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 06/09/2023
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
    r,g,b,y:real
-   cor: caracter
+   cor: caractere
 
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
    r<-40
    g<-10
    b<-20
    y<-30
 
-   escreval("Informe a cor do CD dentre as opções abaixo: ")
+   escreval("Informe a cor do CD dentre as opï¿½ï¿½es abaixo: ")
    escreval("G - VERDE")
    escreval("B - AZUL")
    escreval("Y - AMARELO")
